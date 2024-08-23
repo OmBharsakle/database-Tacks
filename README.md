@@ -7,7 +7,6 @@
   <img src="https://github.com/user-attachments/assets/492bc700-8bb4-4903-be49-702982de962e" height="500">
 </div>
 
-![image]()
 
 
 https://github.com/user-attachments/assets/fc698e64-9238-47a6-8d0e-12e231e8e699
